@@ -1,0 +1,17 @@
+Añadir a APIs:
+
+ENCUESTA FINALIZADA O NO FINALIZADA:
+-Número máximo del censo de una encuesta X
+-Número de votos realizados de una encuesta X 						(Barras horizontales)
+
+ENCUESTA FINALIZADA:
+-Lista de votos de una encuesta X 							(Grafico circular, preferiblemente Doughnut)
+-Lista de edades de todos los participantes de una encuesta finalizada X 		(Grafico vertical) 
+-Lista de ciudad,provincia,nacion "	"	"	"	"			(Grafico vertical)
+-Lista de hora de todos los votos de una encuesta finalizada X				(Grafico vertical)
+
+Dudas: ¿se añadirá mas de un censo a la votación?
+	¿habrá votaciones sin censo o publicas?
+
+
+-Hablar con CENSO Y RECUENTO
